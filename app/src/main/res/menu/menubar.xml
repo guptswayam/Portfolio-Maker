@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/cname"
+        android:title="Change Name"/>
+    <item
+        android:id="@+id/cimage"
+        android:title="Change Image"/>
+    <item
+        android:id="@+id/cprofession"
+        android:title="Change Profession"/>
+    <item
+        android:id="@+id/cabout"
+        android:title="Change About"/>
+    <item
+        android:id="@+id/cskills"
+        android:title="Change Skills"/>
+    <item
+        android:id="@+id/cexp"
+        android:title="Change Experience"/>
+    <item
+        android:id="@+id/cinsta"
+        android:title="Change Instagram Account"/>
+    <item
+        android:id="@+id/cmail"
+        android:title="Change Mail"/>
+    <item
+        android:id="@+id/cmob"
+        android:title="Change Phone Number"/>
+</menu>

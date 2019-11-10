@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Portfolio Maker</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="about">Hey, I am Swayam Gupta and I am completing BSc (Hons) Computer Science from Keshav Mahavidyalaya, University of Delhi ."\n""\n"Because of my personal interest in computer science, I learned many programming languages and have a strong base in Java and C++ .
+    I also have a keen interest in Android Development .</string>
+    <string name="skills">* Core Java . "\n"* Android Development ."\n"* HTML . "\n"* XML . "\n"* C++ ."\n"* JDBC, Servlets and JSP .
+    "\n"* Spring, Spring Boot and Hibernate .</string>
+    <string name="experience">No past experience in any company but I worked on various Enterprise and Android Projects .</string>
+</resources>
